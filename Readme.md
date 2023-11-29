@@ -6,7 +6,7 @@ This README file provides an outline of a project using the Titanic dataset. The
 
 !['titanic'](https://wallpapers.com/images/hd/underwater-sunken-titanic-bat2e49s3bc1s45y.jpg)
 
-The dataset used for this project can be found on Kaggle: Titanic Dataset. 
+The dataset used for this project can be found on Kaggle: [Titanic Dataset](https://www.kaggle.com/datasets/brendan45774/test-file). 
 
 **Step 1: Data Cleaning**
 
