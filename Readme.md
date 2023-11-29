@@ -29,12 +29,13 @@ The cleaned data is read from 'new_titanic.csv' by the 'dataload.py' script, whi
 
 The Flask framework is used by the 'app.py' script to build a web application with two routes: 
 
-  
-/: The 'about.html' page is rendered by this. Features a button to jump to the dataset. 
+note : about page is default page
+
+path **/**: The 'about.html' page is rendered by this. Features a button to jump to the dataset. 
 
   
 
-/data: Opens the 'data.html' page with data that has been retrieved from the SQLite database ('titanic.db'). 
+path **/data**: Opens the 'data.html' page with data that has been retrieved from the SQLite database ('titanic.db'). 
 
  
 
