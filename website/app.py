@@ -5,10 +5,12 @@ import sqlite3
 
 app = Flask(__name__)
 
+# this is the default page 
 @app.route('/')
 def about():
     return render_template('about.html')
 
+# this is the dataset page
 @app.route('/data')
 def data():
     conn = sqlite3.connect('database/titanic.db')
